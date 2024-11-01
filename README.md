@@ -10,8 +10,8 @@
 
 <!-- Cabeçalho da página -->
 <header>
-<h1> class=”______________” Título da Página</h1>
-<p> class=”______________” Subtítulo ou descrição breve</p>
+<h1> class=”tit” Título da Página</h1>
+<p> class=”subtit” Subtítulo ou descrição breve</p>
 </header>
 
 <!-- Menu de navegação -->
